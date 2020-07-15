@@ -1040,5 +1040,6 @@ Distinguished visual tracking researchers who have published +3 papers which hav
 |   GOTURN    |    0.444     |        0.62        |   0.427    |      0.572       |     -     |        -        |       Y       |  Y(*165*)  |
 
 ## Acknowledgement
-Most of them  come from [foolwood/benchmark_results](https://github.com/foolwood/benchmark_results).
+Most of them  come from [foolwood/benchmark_results](https://github.com/foolwood/benchmark_results). 
+I mainly added some missing papers and fixed some links that were not available.
 
