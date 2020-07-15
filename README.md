@@ -20,158 +20,119 @@
 *  Xuesong Chen, Xiyu Yan, Feng Zheng, Yong Jiang, Shu-Tao Xia, Yong Zhao, Rongrong Ji. <br />
 One-shot Adversarial Attacks on Visual Tracking with Dual Attention
   [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_One-Shot_Adversarial_Attacks_on_Visual_Tracking_With_Dual_Attention_CVPR_2020_paper.pdf)][[code]]
-
 * **RLS-RTMDNet:** Jin Gao, Weiming Hu, Yan Lu. <br />
 Recursive Least-Squares Estimator-Aided Online Learning for Visual Tracking
   [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_Recursive_Least-Squares_Estimator-Aided_Online_Learning_for_Visual_Tracking_CVPR_2020_paper.pdf)][[code](https://github.com/Amgao/RLS-RTMDNet)]
-
 * **SiamCAR:**  Dongyan Guo, Jun Wang, Ying Cui, Zhenhua Wang, Shengyong Chen. <br />
 SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking
-  [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_SiamCAR_Siamese_Fully_Convolutional_Classification_and_Regression_for_Visual_Tracking_CVPR_2020_paper.pdf)][[code](https://github.com/ohhhyeahhh/SiamCAR)]
-  
+  [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_SiamCAR_Siamese_Fully_Convolutional_Classification_and_Regression_for_Visual_Tracking_CVPR_2020_paper.pdf)][[code](https://github.com/ohhhyeahhh/SiamCAR)] 
 * **D3S:**  Alan Lukežič, Jiří Matas, Matej Kristan.  <br />
 D3S: – A Discriminative Single Shot Segmentation Tracker
   [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lukezic_D3S_-_A_Discriminative_Single_Shot_Segmentation_Tracker_CVPR_2020_paper.pdf)][[code](https://github.com/alanlukezic/d3s)]
-
 * **ROAM:**  Tianyu Yang, Pengfei Xu, Runbo Hu, Hua Chai, Antoni B. Chan.  <br /> 
 Recurrently Optimizing Tracking Model
 [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_ROAM_Recurrently_Optimizing_Tracking_Model_CVPR_2020_paper.pdf)]
 [[code](https://github.com/skyoung/ROAM)]
-
 * **FTMU:**  Mingjie Sun, Jimin Xiao, Eng Gee Lim, Bingfeng Zhang, Yao Zhao <br />
 Fast Template Matching and Update for Video Object Tracking and Segmentation
 [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Fast_Template_Matching_and_Update_for_Video_Object_Tracking_and_CVPR_2020_paper.pdf)]
 [[code](https://github.com/insomnia94/FTMU)]
-
 * **CSA:** Bin Yan, Dong Wang, Huchuan Lu, Xiaoyun Yang  <br />
 Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
 [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Cooling-Shrinking_Attack_Blinding_the_Tracker_With_Imperceptible_Noises_CVPR_2020_paper.pdf)]
 [[code](https://github.com/MasterBin-IIAU/CSA)]
-
 * **SiamAttn:** Yuechen Yu, Yilei Xiong, Weilin Huang, Matthew R. Scott.  <br />
 Deformable Siamese Attention Networks for Visual Object Tracking 
 [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Deformable_Siamese_Attention_Networks_for_Visual_Object_Tracking_CVPR_2020_paper.pdf)]
 [code] 
-
 * **LTMU:** Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.  <br />
 High-Performance Long-Term Tracking with Meta-Updater
 [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Dai_High-Performance_Long-Term_Tracking_With_Meta-Updater_CVPR_2020_paper.pdf)]
 [[code](https://github.com/Daikenan/LTMU)]
-
 *  Yang Li, Aljaž Božič, Tianwei Zhang, Yanli Ji, Tatsuya Harada, Matthias Nießner.  <br />
 Learning to Optimize Non-Rigid Tracking
 [[paper](https://arxiv.org/abs/2003.12230)]
 [code]
-
 * **Siam R-CNN:** Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe.  <br />
 Siam R-CNN: Visual Tracking by Re-Detection
 [[homepage](https://www.vision.rwth-aachen.de/page/siamrcnn)]
 [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Voigtlaender_Siam_R-CNN_Visual_Tracking_by_Re-Detection_CVPR_2020_paper.pdf)]
 [[code](https://github.com/VisualComputingInstitute/SiamR-CNN)]
-
 *  **PrDiMP:**   Martin Danelljan, Luc Van Gool, Radu Timofte.  <br />
 Probabilistic Regression for Visual Tracking
 [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Danelljan_Probabilistic_Regression_for_Visual_Tracking_CVPR_2020_paper.pdf)]
 [[code](https://github.com/visionml/pytracking)]
-
 * **MAST:**  Guangting Wang, Chong Luo, Xiaoyan Sun, Zhiwei Xiong, Wenjun Zeng. <br />
 A Memory-Augmented Self-supervised Tracker
 [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lai_MAST_A_Memory-Augmented_Self-Supervised_Tracker_CVPR_2020_paper.pdf)]
 [[code](https://github.com/zlai0/MAST)]
-
 * **SiamBAN:** Zedu Chen, Bineng Zhong, Guorong Li, Shengping Zhang, Rongrong Ji.  <br />
 Siamese Box Adaptive Network for Visual Tracking
 [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Siamese_Box_Adaptive_Network_for_Visual_Tracking_CVPR_2020_paper.pdf)]
 [[code](https://github.com/hqucv/siamban)]
-
-
 * **SAT:**  Xi Chen, Zuoxin Li, Ye Yuan, Gang Yu, Jianxin Shen, Donglian Qi   <br />
 State-Aware Tracker for Real-Time Video Object Segmentation
 [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_State-Aware_Tracker_for_Real-Time_Video_Object_Segmentation_CVPR_2020_paper.pdf)]
 [[code](https://github.com/MegviiDetection/video_analyst)]
-
 * **MAML:**  Guangting Wang, Chong Luo, Xiaoyan Sun, Zhiwei Xiong, Wenjun Zeng.   <br />
 Tracking by Instance Detection A Meta-Learning Approach
 [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Tracking_by_Instance_Detection_A_Meta-Learning_Approach_CVPR_2020_paper.pdf)]
 [code]
-
 * **AutoTrack:**   Yiming Li, Changhong Fu, Fangqiang Ding, Ziyuan Huang, Geng Lu.  <br />
 AutoTrack: Towards High-Performance Visual Tracking for UAV with Automatic Spatio-Temporal Regularization
 [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_AutoTrack_Towards_High-Performance_Visual_Tracking_for_UAV_With_Automatic_Spatio-Temporal_CVPR_2020_paper.pdf)]
 [[code](https://github.com/vision4robotics/AutoTrack)]
-
-
 * **CGACD:**   Fei Du, Peng Liu, Wei Zhao, Xianglong Tang.   <br />
 Correlation-Guided Attention for Corner Detection Based Visual Tracking.
 [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Du_Correlation-Guided_Attention_for_Corner_Detection_Based_Visual_Tracking_CVPR_2020_paper.pdf)]
 [[code]]
 
-
-
 ### AAAI2020
-
 * **SPSTracker:** Qintao Hu, Lijun Zhou, Xiaoxiao Wang, Yao Mao, Jianlin Zhang, Qixiang Ye. <br />
 "Sub-Peak Suppression of Response Map for Robust Object Tracking"  [[paper](https://arxiv.org/abs/1912.00597)] [[code](github.com/TrackerLB/SPSTracker)] 
-
 * **MMNet:** Qiao Liu, Xin Li, Zhenyu He, Nana Fan, Di Yuan, Wei Liu, Yonsheng Liang. <br /> 
 "Multi-Task Driven Feature Models for Thermal Infrared Tracking" [[paper](https://arxiv.org/abs/1911.11384)] [[code](https://github.com/QiaoLiuHit/MMNet)] 
-
 * **SiamFC++:** Yinda Xu, Zeyu Wang, Zuoxin Li, Ye Yuan, Gang Yu. <br />
 "SiamFC++: Towards Robust and Accurate Visual Tracking with Target Estimation Guidelines." AAAI (2020). [[paper]](https://arxiv.org/pdf/1911.06188v4.pdf) [[code]](https://github.com/MegviiDetection/video_analyst)
 
 ### ICCV2019
-
 * **DiMP:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte.<br />
   "Learning Discriminative Model Prediction for Tracking." ICCV (2019 **oral**). 
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bhat_Learning_Discriminative_Model_Prediction_for_Tracking_ICCV_2019_paper.pdf)]
   [[code](https://github.com/visionml/pytracking)]
-
 * **GradNet:** Peixia Li, Boyu Chen, Wanli Ouyang, Dong Wang, Xiaoyun Yang, Huchuan Lu. <br />
   "GradNet: Gradient-Guided Network for Visual Object Tracking." ICCV (2019 **oral**).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_GradNet_Gradient-Guided_Network_for_Visual_Object_Tracking_ICCV_2019_paper.pdf)]
   [[code](https://github.com/LPXTT/GradNet-Tensorflow)]
-
 * **MLT:** Janghoon Choi, Junseok Kwon, Kyoung Mu Lee. <br />
   "Deep Meta Learning for Real-Time Target-Aware Visual Tracking." ICCV (2019).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Deep_Meta_Learning_for_Real-Time_Target-Aware_Visual_Tracking_ICCV_2019_paper.pdf)]
-
 * **SPLT:** Bin Yan, Haojie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang <br />
   "'Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-Term Tracking." ICCV (2019).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)]
   [[code](https://github.com/iiau-tracker/SPLT)]
-
 * **ARCF:** Ziyuan Huang, Changhong Fu, Yiming Li, Fuling Lin, Peng Lu. <br />
   "Learning Aberrance Repressed Correlation Filters for Real-Time UAV Tracking." ICCV (2019).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Learning_Aberrance_Repressed_Correlation_Filters_for_Real-Time_UAV_Tracking_ICCV_2019_paper.pdf)]
   [[code](https://github.com/vision4robotics/ARCF-tracker)]
-
 * Lianghua Huang, Xin Zhao, Kaiqi Huang. <br />
-  "Bridging the Gap Between Detection and Tracking: A Unified Approach." ICCV (2019).
-  [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Bridging_the_Gap_Between_Detection_and_Tracking_A_Unified_Approach_ICCV_2019_paper.pdf)]
-
+  "Bridging the Gap Between Detection and Tracking: A Unified Approach." ICCV (2019). [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Bridging_the_Gap_Between_Detection_and_Tracking_A_Unified_Approach_ICCV_2019_paper.pdf)]
 * **UpdateNet:** Lichao Zhang, Abel Gonzalez-Garcia, Joost van de Weijer, Martin Danelljan, Fahad Shahbaz Khan. <br />
   "Learning the Model Update for Siamese Trackers." ICCV (2019).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Learning_the_Model_Update_for_Siamese_Trackers_ICCV_2019_paper.pdf)]
   [[code](https://github.com/zhanglichao/updatenet)]
-
 * **PAT:** Rey Reza Wiyatno, Anqi Xu. <br />
-  "Physical Adversarial Textures That Fool Visual Object Tracking." ICCV (2019).
-  [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wiyatno_Physical_Adversarial_Textures_That_Fool_Visual_Object_Tracking_ICCV_2019_paper.pdf)]
-
+  "Physical Adversarial Textures That Fool Visual Object Tracking." ICCV (2019). [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wiyatno_Physical_Adversarial_Textures_That_Fool_Visual_Object_Tracking_ICCV_2019_paper.pdf)]
 * **GFS-DCF:** Tianyang Xu, Zhen-Hua Feng, Xiao-Jun Wu, Josef Kittler. <br />
   "Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking." ICCV (2019).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Joint_Group_Feature_Selection_and_Discriminative_Filter_Learning_for_Robust_ICCV_2019_paper.pdf)]
   [[code](https://github.com/XU-TIANYANG/GFS-DCF)]
-
 * **CDTB:** Alan Lukežič, Ugur Kart, Jani Käpylä, Ahmed Durmush, Joni-Kristian Kämäräinen, Jiří Matas, Matej Kristan. <br />
-
   "CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark." ICCV (2019).
-  [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lukezic_CDTB_A_Color_and_Depth_Visual_Object_Tracking_Dataset_and_ICCV_2019_paper.pdf)]
-  
+  [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lukezic_CDTB_A_Color_and_Depth_Visual_Object_Tracking_Dataset_and_ICCV_2019_paper.pdf)]  
 * **VOT2019:** Kristan, Matej, et al.<br />
   "The Seventh Visual Object Tracking VOT2019 Challenge Results." ICCV workshops (2019).
   [[paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/VOT/Kristan_The_Seventh_Visual_Object_Tracking_VOT2019_Challenge_Results_ICCVW_2019_paper.pdf)]
-
 
 ### CVPR2019
 
