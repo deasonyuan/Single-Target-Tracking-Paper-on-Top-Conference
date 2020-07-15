@@ -1038,3 +1038,7 @@ Distinguished visual tracking researchers who have published +3 papers which hav
 |    TGPR     |    0.529     |       0.766        |   0.458    |      0.643       |     -     |        -        |       N       |    N(1)    |
 |     KCF     |    0.514     |        0.74        |   0.477    |      0.693       |   0.403   |      0.611      |       N       | Y(**172**) |
 |   GOTURN    |    0.444     |        0.62        |   0.427    |      0.572       |     -     |        -        |       Y       |  Y(*165*)  |
+
+## Acknowledgement
+Most of them  come from [foolwood/benchmark_results](https://github.com/foolwood/benchmark_results).
+
