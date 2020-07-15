@@ -1,28 +1,22 @@
 ## Visual Trackers
 
 ### :star2: Recommendations :star2:
-
 * **AFSN:** Shengyun Peng, Yunxuan Yu, Kun Wang, Lei He. <br />
 "Accurate Anchor Free Tracking". ArXiv(2020). [[paper]](https://arxiv.org/abs/2006.07560)
-
-* **DCFNet:** Qiang Wang, Jin Gao, Junliang Xing, Mengdan Zhang, Weiming Hu. 
+* **DCFNet:** Qiang Wang, Jin Gao, Junliang Xing, Mengdan Zhang, Weiming Hu. <br />
   "DCFNet: Discriminant Correlation Filters Network for Visual Tracking." arXiv (2017). 
   [[paper](https://arxiv.org/pdf/1704.04057.pdf)]
   [[code](https://github.com/foolwood/DCFNet#dcfnet-discriminant-correlation-filters-network-for-visual-tracking)]
 
 ### ECCV2020
-
 * **Ocean:** Zhipeng Zhang, Houwen Peng, Jianlong Fu, Bing Li, Weiming Hu. <br />
 "Ocean: Object-aware Anchor-free Tracking". (aka: Learning Object-aware Anchor-free Networks for Real-time Object Tracking) ECCV(2020). [[paper]](https://arxiv.org/abs/2006.10721), [[code]](https://github.com/researchmm/TracKit)
-
 * Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte. <br />
 "Know Your Surroundings: Exploiting Scene Information for Object Tracking".  ECCV(2020). [[paper]](https://arxiv.org/abs/2003.11014)
 * **SPARK:** Qing Guo, Xiaofei Xie, Felix Juefei-Xu, Lei Ma, Zhongguo Li, Wanli Xue, Wei Feng, Yang Liu. <br />
 "SPARK: Spatial-aware Online Incremental Attack Against Visual Tracking". ECCV(2020). [[paper]](https://arxiv.org/abs/1910.08681)
 
-
 ### CVPR2020
-
 *  Xuesong Chen, Xiyu Yan, Feng Zheng, Yong Jiang, Shu-Tao Xia, Yong Zhao, Rongrong Ji. <br />
 One-shot Adversarial Attacks on Visual Tracking with Dual Attention
   [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_One-Shot_Adversarial_Attacks_on_Visual_Tracking_With_Dual_Attention_CVPR_2020_paper.pdf)][[code]]
