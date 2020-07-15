@@ -5,6 +5,11 @@
 * **AFSN:** Shengyun Peng, Yunxuan Yu, Kun Wang, Lei He. <br />
 "Accurate Anchor Free Tracking". ArXiv(2020). [[paper]](https://arxiv.org/abs/2006.07560)
 
+* **DCFNet:** Qiang Wang, Jin Gao, Junliang Xing, Mengdan Zhang, Weiming Hu. 
+  "DCFNet: Discriminant Correlation Filters Network for Visual Tracking." arXiv (2017). 
+  [[paper](https://arxiv.org/pdf/1704.04057.pdf)]
+  [[code](https://github.com/foolwood/DCFNet#dcfnet-discriminant-correlation-filters-network-for-visual-tracking)]
+
 ### ECCV2020
 
 * **Ocean:** Zhipeng Zhang, Houwen Peng, Jianlong Fu, Bing Li, Weiming Hu. <br />
@@ -771,10 +776,6 @@ Correlation-Guided Attention for Corner Detection Based Visual Tracking.
   "Dual Deep Network for Visual Tracking." TIP (2017). 
   [[paper](https://arxiv.org/pdf/1612.06053v1.pdf)]
 
-* **DRT:** Junyu Gao, Tianzhu Zhang, Xiaoshan Yang, Changsheng Xu. 
-  "Deep Relative Tracking." TIP (2017). 
-  [[paper](http://ieeexplore.ieee.org/abstract/document/7828108/)]
-
 * **BIT:** Bolun Cai, Xiangmin Xu, Xiaofen Xing, Kui Jia, Jie Miao, Dacheng Tao.
   "BIT: Biologically Inspired Tracker." TIP (2016). 
   [[paper](http://caibolun.github.io/papers/BIT_TIP.pdf)]
@@ -787,18 +788,6 @@ Correlation-Guided Attention for Corner Detection Based Visual Tracking.
   [[code](http://kaihuazhang.net/CNT_matlab.rar)]
 
 ## ArXiv
-* **Meta-Tracker:** Eunbyung Park, Alexander C. Berg.
-  "Meta-Tracker: Fast and Robust Online Adaptation for Visual Object Trackers." arXiv (2018). 
-  [[paper](https://arxiv.org/pdf/1801.03049.pdf)]
-  [[github]( https://github.com/silverbottlep/meta_trackers)]
-  
-* **MLT:** Janghoon Choi, Junseok Kwon, Kyoung Mu Lee.
-  "Deep Meta Learning for Real-Time Visual Tracking based on Target-Specific Feature Space." arXiv (2017). 
-  [[paper](https://arxiv.org/pdf/1712.09153v1.pdf)]
-  
-* **STECF:** Yang Li, Jianke Zhu, Wenjie Song, Zhefeng Wang, Hantang Liu, Steven C. H. Hoi.
-  "Robust Estimation of Similarity Transformation for Visual Object Tracking with Correlation Filters." arXiv (2017). 
-  [[paper](https://arxiv.org/pdf/1712.05231v1.pdf)]
 
 * **PAWSS:** Xiaofei Du, Alessio Dore, Danail Stoyanov. 
   "Patch-based adaptive weighting with segmentation and scale (PAWSS) for visual tracking." arXiv (2017). 
@@ -816,11 +805,6 @@ Correlation-Guided Attention for Corner Detection Based Visual Tracking.
 * **Re3:** Daniel Gordon, Ali Farhadi, Dieter Fox. 
   "Re3 : Real-Time Recurrent Regression Networks for Object Tracking." arXiv (2017). 
   [[paper](https://arxiv.org/pdf/1705.06368.pdf)]
-
-* **DCFNet:** Qiang Wang, Jin Gao, Junliang Xing, Mengdan Zhang, Weiming Hu. 
-  "DCFNet: Discriminant Correlation Filters Network for Visual Tracking." arXiv (2017). 
-  [[paper](https://arxiv.org/pdf/1704.04057.pdf)]
-  [[code](https://github.com/foolwood/DCFNet#dcfnet-discriminant-correlation-filters-network-for-visual-tracking)]
 
 * **TCNN:** Hyeonseob Nam, Mooyeol Baek, Bohyung Han. 
   "Modeling and Propagating CNNs in a Tree Structure for Visual Tracking." arXiv (2016). 
@@ -953,25 +937,6 @@ Correlation-Guided Attention for Corner Detection Based Visual Tracking.
 **[[VOT17_paper_ICCV](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w28/Kristan_The_Visual_Object_ICCV_2017_paper.pdf)]The Visual Object Tracking VOT2017 challenge results**
 
 
-## Distinguished Researchers & Teams
-Distinguished visual tracking researchers who have published +3 papers which have a major impact on the field of visual tracking and are still active in the field of visual tracking.(Names listed in no particular order, I will continue to supplement this part.)
-
-* [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/)
-* [Haibin Ling](http://www.dabi.temple.edu/~hbling/)
-* [Huchuan Lu](http://ice.dlut.edu.cn/lu/)
-* [Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/)
-* [Lei Zhang](http://www4.comp.polyu.edu.hk/~cslzhang/)
-* [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/)
-* [Matej Kristan](http://www.vicos.si/People/Matejk)
-* [João F. Henriques](http://www.robots.ox.ac.uk/~joao/)
-* [Martin Danelljan](http://users.isy.liu.se/cvl/marda26/)
-* [Kaihua Zhang](http://kaihuazhang.net/)
-* [Hamed Kiani](http://www.hamedkiani.com/)
-* [Luca Bertinetto](http://www.robots.ox.ac.uk/~luca/index.html)
-* [Tianzhu Zhang](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/index.html)
-* [**Torr Vision Group**](http://www.robots.ox.ac.uk/~tvg/people.php)
-* [**Computer Vision Laboratory, POSTECH**](http://cvlab.postech.ac.kr/lab/index.php)
-
 
 ## Benchmark Results
 
@@ -980,7 +945,6 @@ Distinguished visual tracking researchers who have published +3 papers which hav
 - `AUC` and `Precision` are the standard metrics.
 - `Deep Learning`: deep learning features, deep learning method and RL.
 - `RealTime`:  Speeds from the original paper, not test on the same platform. (just focus magnitude)
-
 
 
 |   Tracker   | AUC-CVPR2013 | Precision-CVPR2013 | AUC-OTB100 | Precision-OTB100 | AUC-OTB50 | Precision-OTB50 | Deep Learning |  RealTime  |
