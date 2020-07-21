@@ -15,6 +15,8 @@
 "Know Your Surroundings: Exploiting Scene Information for Object Tracking".  ECCV(2020). [[paper]](https://arxiv.org/abs/2003.11014)
 * **SPARK:** Qing Guo, Xiaofei Xie, Felix Juefei-Xu, Lei Ma, Zhongguo Li, Wanli Xue, Wei Feng, Yang Liu. <br />
 "SPARK: Spatial-aware Online Incremental Attack Against Visual Tracking". ECCV(2020). [[paper]](https://arxiv.org/abs/1910.08681)
+*  **RTAA** Shuai Jia, Chao Ma, Yibing Song, Xiaokang Yang. <br />
+"Robust Tracking against Adversarial Attacks". ECCV(2020). [[paper]](https://arxiv.org/abs/2007.09919) [[code]](https://github.com/joshuajss/RTAA)
 
 ### CVPR2020
 *  Xuesong Chen, Xiyu Yan, Feng Zheng, Yong Jiang, Shu-Tao Xia, Yong Zhao, Rongrong Ji. <br />
