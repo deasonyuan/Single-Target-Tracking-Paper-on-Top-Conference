@@ -17,6 +17,15 @@
 "SPARK: Spatial-aware Online Incremental Attack Against Visual Tracking". ECCV(2020). [[paper]](https://arxiv.org/abs/1910.08681)
 *  **RTAA** Shuai Jia, Chao Ma, Yibing Song, Xiaokang Yang. <br />
 "Robust Tracking against Adversarial Attacks". ECCV(2020). [[paper]](https://arxiv.org/abs/2007.09919) [[code]](https://github.com/joshuajss/RTAA)
+* **CLNet:** Xingping Dong, Jianbing Shen, Ling Shao,  Fatih Porikli. <br />
+"CLNet: A Compact Latent Network for Fast Adjusting Siamese Trackers". ECCV(2020). [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650375.pdf)  [[code]](https://github.com/xingpingdong/CLNet-tracking)
+* **PG-Net:** Bingyan Liao, Chenye Wang, Yayun Wang, Yaonong Wang, and Jun Yin. <br /> 
+"PG-Net: Pixel to Global Matching Network for Visual Tracking". ECCV(2020). [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670426.pdf)
+* Yuan Liu, Ruoteng Li,  Yu Cheng, Robby T. Tan, Xiubao Sui. <br />
+"Object Tracking using Spatio-Temporal Networks for Future Prediction Location". ECCV(2020). [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670001.pdf)
+* **DCFST:** Linyu Zheng, Ming Tang, Yingying Chen, Jinqiao Wang, and Hanqing Lu. <br /> 
+"Learning Feature Embeddings for Discriminant Model based Tracking". [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600749.pdf)
+
 
 ### CVPR2020
 *  Xuesong Chen, Xiyu Yan, Feng Zheng, Yong Jiang, Shu-Tao Xia, Yong Zhao, Rongrong Ji. <br />
