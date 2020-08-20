@@ -105,6 +105,8 @@ Correlation-Guided Attention for Corner Detection Based Visual Tracking.
 "Multi-Task Driven Feature Models for Thermal Infrared Tracking" [[paper](https://arxiv.org/abs/1911.11384)] [[code](https://github.com/QiaoLiuHit/MMNet)] 
 * **SiamFC++:** Yinda Xu, Zeyu Wang, Zuoxin Li, Ye Yuan, Gang Yu. <br />
 "SiamFC++: Towards Robust and Accurate Visual Tracking with Target Estimation Guidelines." AAAI (2020). [[paper]](https://arxiv.org/pdf/1911.06188v4.pdf) [[code]](https://github.com/MegviiDetection/video_analyst)
+* **GlobalTrack:** Lianghua Huang, Xin Zhao, Kaiqi Huang. <br />
+"GlobalTrack: A Simple and Strong Baseline for Long-term Tracking". AAAI (2020). [[paper]](https://arxiv.org/abs/1912.08531)  [[code]](https://github.com/huanglianghua/GlobalTrack)
 
 ### ICCV2019
 * **DiMP:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte.<br />
