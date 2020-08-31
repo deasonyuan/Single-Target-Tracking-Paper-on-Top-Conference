@@ -25,9 +25,9 @@
 "Object Tracking using Spatio-Temporal Networks for Future Prediction Location". ECCV(2020). [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670001.pdf)
 * **DCFST:** Linyu Zheng, Ming Tang, Yingying Chen, Jinqiao Wang, and Hanqing Lu. <br /> 
 "Learning Feature Embeddings for Discriminant Model based Tracking". [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600749.pdf)
-* **CAT** Chenglong Li, Lei Liu, Andong Lu, Qing Ji, and Jin Tang. <br /> 
+* **CAT:** Chenglong Li, Lei Liu, Andong Lu, Qing Ji, and Jin Tang. <br /> 
 "Challenge-Aware RGBT Tracking". [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670222.pdf)
-* **FAN** Siyuan Liang, Xingxing Wei, Siyuan Yao, and Xiaochun Cao. <br /> 
+* **FAN:** Siyuan Liang, Xingxing Wei, Siyuan Yao, and Xiaochun Cao. <br /> 
 "Efficient Adversarial Attacks for Visual Object Tracking". [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710035.pdf)
 
 
