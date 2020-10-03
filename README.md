@@ -10,7 +10,7 @@
 
 ### ECCV2020
 * **Ocean:** Zhipeng Zhang, Houwen Peng, Jianlong Fu, Bing Li, Weiming Hu. <br />
-"Ocean: Object-aware Anchor-free Tracking". (aka: Learning Object-aware Anchor-free Networks for Real-time Object Tracking) ECCV(2020). [[paper]](https://arxiv.org/abs/2006.10721), [[code]](https://github.com/researchmm/TracKit)
+"Ocean: Object-aware Anchor-free Tracking". ECCV(2020). [[paper]](https://arxiv.org/abs/2006.10721), [[code]](https://github.com/researchmm/TracKit)
 * Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte. <br />
 "Know Your Surroundings: Exploiting Scene Information for Object Tracking".  ECCV(2020). [[paper]](https://arxiv.org/abs/2003.11014)
 * **SPARK:** Qing Guo, Xiaofei Xie, Felix Juefei-Xu, Lei Ma, Zhongguo Li, Wanli Xue, Wei Feng, Yang Liu. <br />
