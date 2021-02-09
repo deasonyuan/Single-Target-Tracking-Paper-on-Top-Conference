@@ -522,8 +522,7 @@ Correlation-Guided Attention for Corner Detection Based Visual Tracking.
 * **SANet:** Heng Fan, Haibin Ling. 
   "SANet: Structure-Aware Network for Visual Tracking." CVPRW (2017). 
   [[paper](https://arxiv.org/pdf/1611.06878.pdf)]
-  [[project](http://www.dabi.temple.edu/~hbling/code/SANet/SANet.html)]
-  [[code](http://www.dabi.temple.edu/~hbling/code/SANet/sanet_code.zip)]
+  [[project](https://www3.cs.stonybrook.edu/~hling/code/SANet/SANet.html)]
 
 ### ECCV2016
 
