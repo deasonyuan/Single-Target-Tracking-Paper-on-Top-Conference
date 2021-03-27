@@ -8,14 +8,16 @@
   [[paper](https://arxiv.org/pdf/1704.04057.pdf)]
   [[code](https://github.com/foolwood/DCFNet#dcfnet-discriminant-correlation-filters-network-for-visual-tracking)]
   
-  
+### CVPR2021
+*  Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen. <br />
+"Graph Attention Tracking".[[paper](https://arxiv.org/abs/2011.11204)][[code](https://github.com/ohhhyeahhh/SiamGAT)]
+
+
 ### ACM MM 2020
 * "Siamese Attentive Graph Tracking". ACM MM(2020). [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413956)
 * "Online Filtering Training Samples for Robust Visual Tracking". ACM MM(2020). [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413930)
 * "Accurate UAV Tracking with Distance-Injected Overlap Maximization". ACM MM(2020). [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413959)
 * "S2SiamFC: Self-supervised Fully Convolutional Siamese Network for Visual Tracking". ACM MM(2020). [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413611)
-
-
 
 
 ### ECCV2020
