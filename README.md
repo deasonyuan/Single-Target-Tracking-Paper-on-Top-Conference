@@ -9,7 +9,7 @@
   [[code](https://github.com/foolwood/DCFNet#dcfnet-discriminant-correlation-filters-network-for-visual-tracking)]
   
 ### CVPR2021
-*  Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen. <br />
+* **SiamGAT:** Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen. <br />
 "Graph Attention Tracking".[[paper](https://arxiv.org/abs/2011.11204)][[code](https://github.com/ohhhyeahhh/SiamGAT)]
 
 
