@@ -13,6 +13,9 @@
 "Graph Attention Tracking".CVPR(2021).[[paper](https://arxiv.org/abs/2011.11204)][[code](https://github.com/ohhhyeahhh/SiamGAT)]
 * **TransformerTrack:** Ning Wang, Wengang Zhou, Jie Wang, Houqaing Li. <br />
 "Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking".CVPR(2021).[[paper](https://arxiv.org/abs/2103.11681)][[code](https://github.com/594422814/TransformerTrack)]
+* **IoU Attack: ** Shuai Jia, Yibing Song, Chao Ma, Xiaokang Yang. <br />
+"IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking".CVPR(2021).[[paper](https://arxiv.org/abs/2103.14938)][[code](https://github.com/VISION-SJTU/IoUattack)]
+
 
 
 ### ACM MM 2020
