@@ -1,6 +1,8 @@
 ## Visual Trackers
 
 ### :star2: Recommendations :star2:
+* **TREG:** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu. <br />
+"Target Transformed Regression for Accurate Tracking".ArXiv(2021).[[paper](https://arxiv.org/abs/2104.00403)][[code](https://github.com/MCG-NJU/TREG)]
 * **STARK:** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. <br />
 "Learning Spatio-Temporal Transformer for Visual Tracking".ArXiv(2021).[[paper](https://arxiv.org/abs/2103.17154)][[code](https://github.com/researchmm/Stark)]
 * **AFSN:** Shengyun Peng, Yunxuan Yu, Kun Wang, Lei He. <br />
@@ -21,6 +23,9 @@
 "Transformer Tracking".CVPR(2021).[[paper](https://arxiv.org/abs/2103.15436)][[code](https://github.com/chenxin-dlut/TransT)]
 * **TNL2K:** Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu. <br />
 "Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark".CVPR(2021).[[paper](https://arxiv.org/abs/2103.16746)][[code](https://sites.google.com/view/langtrackbenchmark/)]
+* **STMTrack:** Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang. <br />
+"STMTrack: Template-free Visual Tracking with Space-time Memory Networks".CVPR(2021).[[paper](https://arxiv.org/abs/2104.00324)][[code](https://github.com/fzh0917/STMTrack)]
+
 
 
 
