@@ -27,6 +27,8 @@
 "STMTrack: Template-free Visual Tracking with Space-time Memory Networks".CVPR(2021).[[paper](https://arxiv.org/abs/2104.00324)][[code](https://github.com/fzh0917/STMTrack)]
 *  Yang Fu, Sifei Liu, Umar Iqbal, Shalini De Mello, Humphrey Shi, Jan Kautz. <br />
 "Learning to Track Instances without Video Annotations".CVPR(2021).[[paper](https://arxiv.org/abs/2104.00287)][[code](https://oasisyang.github.io/projects/semi-track/index.html)]
+* **LightTrack:** Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu. <br />
+"LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search".CVPR(2021).[[paper](https://arxiv.org/abs/2104.14545)][[code](https://github.com/researchmm/LightTrack)]
 
 
 
