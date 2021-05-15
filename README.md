@@ -1,6 +1,8 @@
 ## Visual Trackers
 
 ### :star2: Recommendations :star2:
+* **TrTr:** Moju Zhao, Kei Okada, Masayuki Inaba. <br />
+"TrTr: Visual Tracking with Transformer".ArXiv(2021).[[paper](https://arxiv.org/abs/2105.03817)][[code](https://github.com/tongtybj/TrTr)]
 * **TREG:** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu. <br />
 "Target Transformed Regression for Accurate Tracking".ArXiv(2021).[[paper](https://arxiv.org/abs/2104.00403)][[code](https://github.com/MCG-NJU/TREG)]
 * **STARK:** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. <br />
