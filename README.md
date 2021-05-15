@@ -1,6 +1,8 @@
 ## Visual Trackers
 
 ### :star2: Recommendations :star2:
+* **SVC-Corr:** Jinpu Zhang, Yuehuan Wang. <br />
+"Spatio-Temporal Matching for Siamese Visual Tracking".ArXiv(2021).[[paper](https://arxiv.org/abs/2105.02408)]
 * **TrTr:** Moju Zhao, Kei Okada, Masayuki Inaba. <br />
 "TrTr: Visual Tracking with Transformer".ArXiv(2021).[[paper](https://arxiv.org/abs/2105.03817)][[code](https://github.com/tongtybj/TrTr)]
 * **TREG:** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu. <br />
