@@ -33,7 +33,8 @@
 "Learning to Track Instances without Video Annotations".CVPR(2021).[[paper](https://arxiv.org/abs/2104.00287)][[code](https://oasisyang.github.io/projects/semi-track/index.html)]
 * **LightTrack:** Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu. <br />
 "LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search".CVPR(2021).[[paper](https://arxiv.org/abs/2104.14545)][[code](https://github.com/researchmm/LightTrack)]
-
+* **CtP:** Guangting Wang, Yizhou Zhou, Chong Luo, Wenxuan Xie, Wenjun Zeng, Zhiwei Xiong. <br />
+"Unsupervised Visual Representation Learning by Tracking Patches in Video".CVPR(2021).[[paper](https://arxiv.org/abs/2105.02545)][[code](https://github.com/microsoft/CtP)]
 
 
 
