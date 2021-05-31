@@ -1,6 +1,8 @@
 ## Visual Trackers
 
 ### :star2: Recommendations :star2:
+* **SiamRCR:** Jinlong Peng, Zhengkai Jiang, Yueyang Gu, Yang Wu, Yabiao Wang, Ying Tai, Chengjie Wang, Weiyao Lin. <br />
+"SiamRCR: Reciprocal Classification and Regression for Visual Object Tracking".IJCAI(2021).[[paper](https://arxiv.org/abs/2105.11237)]
 * **SVC-Corr:** Jinpu Zhang, Yuehuan Wang. <br />
 "Spatio-Temporal Matching for Siamese Visual Tracking".ArXiv(2021).[[paper](https://arxiv.org/abs/2105.02408)]
 * **TrTr:** Moju Zhao, Kei Okada, Masayuki Inaba. <br />
