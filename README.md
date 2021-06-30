@@ -20,15 +20,15 @@
   
 ### CVPR2021
 * **SiamGAT:** Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen. <br />
-"Graph Attention Tracking".CVPR(2021).[[paper](https://arxiv.org/abs/2011.11204)][[code](https://github.com/ohhhyeahhh/SiamGAT)]
+"Graph Attention Tracking".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Graph_Attention_Tracking_CVPR_2021_paper.pdf)][[code](https://github.com/ohhhyeahhh/SiamGAT)]
 * **TransformerTrack:** Ning Wang, Wengang Zhou, Jie Wang, Houqaing Li. <br />
-"Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking".CVPR(2021).[[paper](https://arxiv.org/abs/2103.11681)][[code](https://github.com/594422814/TransformerTrack)]
+"Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Transformer_Meets_Tracker_Exploiting_Temporal_Context_for_Robust_Visual_Tracking_CVPR_2021_paper.pdf)][[code](https://github.com/594422814/TransformerTrack)]
 * **IoU Attack:** Shuai Jia, Yibing Song, Chao Ma, Xiaokang Yang. <br />
-"IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking".CVPR(2021).[[paper](https://arxiv.org/abs/2103.14938)][[code](https://github.com/VISION-SJTU/IoUattack)]
+"IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jia_IoU_Attack_Towards_Temporally_Coherent_Black-Box_Adversarial_Attack_for_Visual_CVPR_2021_paper.pdf)][[code](https://github.com/VISION-SJTU/IoUattack)]
 * **TransT:** Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun Yang, Huchuan Lu. <br />
 "Transformer Tracking".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Transformer_Tracking_CVPR_2021_paper.pdf)][[code](https://github.com/chenxin-dlut/TransT)]
 * **TNL2K:** Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu. <br />
-"Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark".CVPR(2021).[[paper](https://arxiv.org/abs/2103.16746)][[code](https://sites.google.com/view/langtrackbenchmark/)]
+"Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Towards_More_Flexible_and_Accurate_Object_Tracking_With_Natural_Language_CVPR_2021_paper.pdf)][[code](https://sites.google.com/view/langtrackbenchmark/)]
 * **STMTrack:** Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang. <br />
 "STMTrack: Template-free Visual Tracking with Space-time Memory Networks".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Fu_STMTrack_Template-Free_Visual_Tracking_With_Space-Time_Memory_Networks_CVPR_2021_paper.pdf)][[code](https://github.com/fzh0917/STMTrack)]
 *  Yang Fu, Sifei Liu, Umar Iqbal, Shalini De Mello, Humphrey Shi, Jan Kautz. <br />
@@ -38,7 +38,7 @@
 * **ARDiMP:** Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang. <br />
 "Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Alpha-Refine_Boosting_Tracking_Performance_by_Precise_Bounding_Box_Estimation_CVPR_2021_paper.pdf)][[code](https://github.com/MasterBin-IIAU/AlphaRefine)]
 * **CtP:** Guangting Wang, Yizhou Zhou, Chong Luo, Wenxuan Xie, Wenjun Zeng, Zhiwei Xiong. <br />
-"Unsupervised Visual Representation Learning by Tracking Patches in Video".CVPR(2021).[[paper](https://arxiv.org/abs/2105.02545)][[code](https://github.com/microsoft/CtP)]
+"Unsupervised Visual Representation Learning by Tracking Patches in Video".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Unsupervised_Visual_Representation_Learning_by_Tracking_Patches_in_Video_CVPR_2021_paper.pdf)][[code](https://github.com/microsoft/CtP)]
 * **SiamRN:** Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, Jing Wang. <br />
 "Learning to Filter: Siamese Relation Network for Robust Tracking".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Cheng_Learning_To_Filter_Siamese_Relation_Network_for_Robust_Tracking_CVPR_2021_paper.pdf)][[code](https://github.com/hqucv/siamrn)]
 
