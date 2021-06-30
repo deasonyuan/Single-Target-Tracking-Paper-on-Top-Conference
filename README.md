@@ -37,6 +37,8 @@
 "LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search".CVPR(2021).[[paper](https://arxiv.org/abs/2104.14545)][[code](https://github.com/researchmm/LightTrack)]
 * **CtP:** Guangting Wang, Yizhou Zhou, Chong Luo, Wenxuan Xie, Wenjun Zeng, Zhiwei Xiong. <br />
 "Unsupervised Visual Representation Learning by Tracking Patches in Video".CVPR(2021).[[paper](https://arxiv.org/abs/2105.02545)][[code](https://github.com/microsoft/CtP)]
+* **SiamRN:** Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, Jing Wang. <br />
+"Learning to Filter: Siamese Relation Network for Robust Tracking".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Cheng_Learning_To_Filter_Siamese_Relation_Network_for_Robust_Tracking_CVPR_2021_paper.pdf)][[code](https://github.com/hqucv/siamrn)]
 
 
 
