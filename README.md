@@ -45,6 +45,8 @@
 "Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Distractor-Aware_Fast_Tracking_via_Dynamic_Convolutions_and_MOT_Philosophy_CVPR_2021_paper.pdf)][[code](https://github.com/hqucv/dmtrack)]
 * **CapsuleRRT:** Ding Ma, Xiangqian Wu. <br />
 "CapsuleRRT: Relationships-aware Regression Tracking via Capsules".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_CapsuleRRT_Relationships-Aware_Regression_Tracking_via_Capsules_CVPR_2021_paper.pdf)] 
+* **RE-SiamNets:** Deepak K. Gupta, Devanshu Arya, Efstratios Gavves. <br />
+"Rotation Equivariant Siamese Networks for Tracking".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Gupta_Rotation_Equivariant_Siamese_Networks_for_Tracking_CVPR_2021_paper.pdf)] [[code](https://github.com/dkgupta90/re-siamnet)]
 
 
 
