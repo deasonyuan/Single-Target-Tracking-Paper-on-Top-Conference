@@ -51,6 +51,11 @@
 "Progressive Unsupervised Learning for Visual Object Tracking".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Progressive_Unsupervised_Learning_for_Visual_Object_Tracking_CVPR_2021_paper.pdf)] 
 * **RE-SiamNets:** Qi Feng, Qinxun Bai, Stan Sclarof. <br />
 "Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_Siamese_Natural_Language_Tracker_Tracking_by_Natural_Language_Descriptions_With_CVPR_2021_paper.pdf)] [[code](https://github.com/fredfung007/snlt)]
+* **SiamBAN-ACM:** Wencheng Han, Xingping Dong, Fahad Shahbaz Khan, Ling Shao, Jianbing Shen. <br />
+"Learning to Fuse Asymmetric Feature Maps in Siamese Trackers".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Han_Learning_To_Fuse_Asymmetric_Feature_Maps_in_Siamese_Trackers_CVPR_2021_paper.pdf)] [[code](https://github.com/wencheng256/SiamBAN-ACM)]
+
+*  Adam W. Harley, Yiming Zuo, Jing Wen, Ayush Mangal. <br />
+"Track, Check, Repeat: An EM Approach to Unsupervised Tracking".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Harley_Track_Check_Repeat_An_EM_Approach_to_Unsupervised_Tracking_CVPR_2021_paper.pdf)] 
 
 
 
