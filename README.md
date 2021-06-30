@@ -26,7 +26,7 @@
 * **IoU Attack:** Shuai Jia, Yibing Song, Chao Ma, Xiaokang Yang. <br />
 "IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking".CVPR(2021).[[paper](https://arxiv.org/abs/2103.14938)][[code](https://github.com/VISION-SJTU/IoUattack)]
 * **TransT:** Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun Yang, Huchuan Lu. <br />
-"Transformer Tracking".CVPR(2021).[[paper](https://arxiv.org/abs/2103.15436)][[code](https://github.com/chenxin-dlut/TransT)]
+"Transformer Tracking".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Transformer_Tracking_CVPR_2021_paper.pdf)][[code](https://github.com/chenxin-dlut/TransT)]
 * **TNL2K:** Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu. <br />
 "Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark".CVPR(2021).[[paper](https://arxiv.org/abs/2103.16746)][[code](https://sites.google.com/view/langtrackbenchmark/)]
 * **STMTrack:** Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang. <br />
@@ -34,7 +34,7 @@
 *  Yang Fu, Sifei Liu, Umar Iqbal, Shalini De Mello, Humphrey Shi, Jan Kautz. <br />
 "Learning to Track Instances without Video Annotations".CVPR(2021).[[paper](https://arxiv.org/abs/2104.00287)][[code](https://oasisyang.github.io/projects/semi-track/index.html)]
 * **LightTrack:** Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu. <br />
-"LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search".CVPR(2021).[[paper](https://arxiv.org/abs/2104.14545)][[code](https://github.com/researchmm/LightTrack)]
+"LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_LightTrack_Finding_Lightweight_Neural_Networks_for_Object_Tracking_via_One-Shot_CVPR_2021_paper.pdf)][[code](https://github.com/researchmm/LightTrack)]
 * **CtP:** Guangting Wang, Yizhou Zhou, Chong Luo, Wenxuan Xie, Wenjun Zeng, Zhiwei Xiong. <br />
 "Unsupervised Visual Representation Learning by Tracking Patches in Video".CVPR(2021).[[paper](https://arxiv.org/abs/2105.02545)][[code](https://github.com/microsoft/CtP)]
 * **SiamRN:** Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, Jing Wang. <br />
