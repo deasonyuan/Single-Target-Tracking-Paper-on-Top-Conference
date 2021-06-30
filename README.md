@@ -47,6 +47,11 @@
 "CapsuleRRT: Relationships-aware Regression Tracking via Capsules".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_CapsuleRRT_Relationships-Aware_Regression_Tracking_via_Capsules_CVPR_2021_paper.pdf)] 
 * **RE-SiamNets:** Deepak K. Gupta, Devanshu Arya, Efstratios Gavves. <br />
 "Rotation Equivariant Siamese Networks for Tracking".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Gupta_Rotation_Equivariant_Siamese_Networks_for_Tracking_CVPR_2021_paper.pdf)] [[code](https://github.com/dkgupta90/re-siamnet)]
+* **PUL:** Qiangqiang Wu, Jia Wan, Antoni B. Chan. <br />
+"Progressive Unsupervised Learning for Visual Object Tracking".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Progressive_Unsupervised_Learning_for_Visual_Object_Tracking_CVPR_2021_paper.pdf)] 
+* **RE-SiamNets:** Qi Feng, Qinxun Bai, Stan Sclarof. <br />
+"Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers".CVPR(2021).[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_Siamese_Natural_Language_Tracker_Tracking_by_Natural_Language_Descriptions_With_CVPR_2021_paper.pdf)] [[code](https://github.com/fredfung007/snlt)]
+
 
 
 
