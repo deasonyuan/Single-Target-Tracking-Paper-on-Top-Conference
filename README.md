@@ -22,6 +22,8 @@
 "Learning Spatio-Temporal Transformer for Visual Tracking".ICCV(2021).[[paper](https://arxiv.org/abs/2103.17154)][[code](https://github.com/researchmm/Stark)]
  * **AutoMatch:** Zhipeng Zhang, Yihao Liu, Xiao Wang, Bing Li, Weiming Hu. <br />
 "Learn to Match: Automatic Matching Network Design for Visual Tracking".ICCV(2021).[[paper](https://arxiv.org/pdf/2108.00803.pdf)][[code](https://github.com/JudasDie/SOTS)]
+* **HiFT:** Ziang Cao, Changhong Fu, Junjie Ye, Bowen Li, Yiming Li. <br />
+"HiFT: Hierarchical Feature Transformer for Aerial Tracking".ICCV(2021).[[paper](https://arxiv.org/abs/2108.00202)][[code](https://github.com/vision4robotics/HiFT)]
  
 ### CVPR2021
 * **SiamGAT:** Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen. <br />
