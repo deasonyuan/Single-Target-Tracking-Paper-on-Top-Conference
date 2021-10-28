@@ -18,6 +18,8 @@
  
  
  ### ICCV2021
+ * **DepthTrack:** Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen. <br />
+"DepthTrack: Unveiling the Power of RGBD Tracking".ICCV(2021).[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yan_DepthTrack_Unveiling_the_Power_of_RGBD_Tracking_ICCV_2021_paper.pdf)][[code](https://github.com/xiaozai/DeT)]
 * **STARK:** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. <br />
 "Learning Spatio-Temporal Transformer for Visual Tracking".ICCV(2021).[[paper](https://arxiv.org/abs/2103.17154)][[code](https://github.com/researchmm/Stark)]
  * **AutoMatch:** Zhipeng Zhang, Yihao Liu, Xiao Wang, Bing Li, Weiming Hu. <br />
