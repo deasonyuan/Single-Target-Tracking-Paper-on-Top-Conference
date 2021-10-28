@@ -25,7 +25,23 @@
  * **AutoMatch:** Zhipeng Zhang, Yihao Liu, Xiao Wang, Bing Li, Weiming Hu. <br />
 "Learn to Match: Automatic Matching Network Design for Visual Tracking".ICCV(2021).[[paper](https://arxiv.org/pdf/2108.00803.pdf)][[code](https://github.com/JudasDie/SOTS)]
 * **HiFT:** Ziang Cao, Changhong Fu, Junjie Ye, Bowen Li, Yiming Li. <br />
-"HiFT: Hierarchical Feature Transformer for Aerial Tracking".ICCV(2021).[[paper](https://arxiv.org/abs/2108.00202)][[code](https://github.com/vision4robotics/HiFT)]
+"HiFT: Hierarchical Feature Transformer for Aerial Tracking".ICCV(2021).[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cao_HiFT_Hierarchical_Feature_Transformer_for_Aerial_Tracking_ICCV_2021_paper.pdf)][[code](https://github.com/vision4robotics/HiFT)]
+* **Keep Track:** Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool. <br />
+"Learning Target Candidate Association To Keep Track of What Not To Track".ICCV(2021).[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Mayer_Learning_Target_Candidate_Association_To_Keep_Track_of_What_Not_ICCV_2021_paper.pdf)][[code](https://github.com/visionml/pytracking)]
+* **ABA:** Qing Guo, Ziyi Cheng, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, Yang Liu, Jianjun Zhao. <br />
+"Learning To Adversarially Blur Visual Object Tracking".ICCV(2021).[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Learning_To_Adversarially_Blur_Visual_Object_Tracking_ICCV_2021_paper.pdf)][[code](https://github.com/tsingqguo/ABA)]
+* **USOT:** Jilai Zheng, Chao Ma, Houwen Peng, Xiaokang Yang. <br />
+"Learning To Track Objects From Unlabeled Videos".ICCV(2021).[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Learning_To_Track_Objects_From_Unlabeled_Videos_ICCV_2021_paper.pdf)][[code](https://github.com/VISION-SJTU/USOT)]
+* **SAOT:** Zikun Zhou, Wenjie Pei, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He. <br />
+"Saliency-Associated Object Tracking".ICCV(2021).[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Saliency-Associated_Object_Tracking_ICCV_2021_paper.pdf)]
+* **TOTB:** Heng Fan, Halady Akhilesha Miththanthaya, Harshit, Siranjiv Ramana Rajan, Xiaoqiong Liu, Zhilin Zou, Yuewei Lin, Haibin Ling. <br />
+"Transparent Object Tracking Benchmark".ICCV(2021).[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Transparent_Object_Tracking_Benchmark_ICCV_2021_paper.pdf)][[code](https://hengfan2010.github.io/projects/TOTB/)]
+* Jiqing Zhang, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin, Bo Dong. <br />
+"Object Tracking by Jointly Exploiting Frame and Event Domain".ICCV(2021).[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Object_Tracking_by_Jointly_Exploiting_Frame_and_Event_Domain_ICCV_2021_paper.pdf)]
+
+
+
+
  
 ### CVPR2021
 * **SiamGAT:** Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen. <br />
