@@ -33,7 +33,7 @@
 * **USOT:** Jilai Zheng, Chao Ma, Houwen Peng, Xiaokang Yang. <br />
 "Learning To Track Objects From Unlabeled Videos".ICCV(2021).[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Learning_To_Track_Objects_From_Unlabeled_Videos_ICCV_2021_paper.pdf)][[code](https://github.com/VISION-SJTU/USOT)]
 * **SAOT:** Zikun Zhou, Wenjie Pei, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He. <br />
-"Saliency-Associated Object Tracking".ICCV(2021).[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Saliency-Associated_Object_Tracking_ICCV_2021_paper.pdf)]
+"Saliency-Associated Object Tracking".ICCV(2021).[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Saliency-Associated_Object_Tracking_ICCV_2021_paper.pdf)][[code](https://github.com/ZikunZhou/SAOT)]
 * **TOTB:** Heng Fan, Halady Akhilesha Miththanthaya, Harshit, Siranjiv Ramana Rajan, Xiaoqiong Liu, Zhilin Zou, Yuewei Lin, Haibin Ling. <br />
 "Transparent Object Tracking Benchmark".ICCV(2021).[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Transparent_Object_Tracking_Benchmark_ICCV_2021_paper.pdf)][[code](https://hengfan2010.github.io/projects/TOTB/)]
 * Jiqing Zhang, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin, Bo Dong. <br />
