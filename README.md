@@ -21,6 +21,16 @@
 "Unsupervised Domain Adaptation for Nighttime Aerial Tracking".CVPR(2022).[[paper]()][[code](https://github.com/vision4robotics/UDAT)]
 * **TCTrack:** Ziang Cao and Ziyuan Huang and Liang Pan and Shiwei Zhang and Ziwei Liu and Changhong Fu. <br />
 "TCTrack: Temporal Contexts for Aerial Tracking".CVPR(2022).[[paper](https://arxiv.org/abs/2203.01885)][[code](https://github.com/vision4robotics/TCTrack)]
+* **CADT:** Fei Xie, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng. <br />
+"Correlation-Aware Deep Tracking".CVPR(2022).[[paper](https://arxiv.org/abs/2203.01666)][[code]()]
+* Qiuhong Shen, Lei Qiao, Jinyang Guo, Peixia Li, Xin Li, Bo Li, Weitao Feng, Weihao Gan, Wei Wu, Wanli Ouyang. <br />
+"Unsupervised Learning of Accurate Siamese Tracking".CVPR(2022).[[paper]()][[code]()]
+* Zikun Zhou, Jianqiu Chen, Zhenyu He, Kaige Mao, Hongpeng Wang, Wenjie Pei. <br />
+"Global Tracking via Ensemble of Local Trackers".CVPR(2022).[[paper]()][[code]()]
+* Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, Zhen Li. <br />
+"Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds".CVPR(2022).[[paper](https://arxiv.org/abs/2203.01730)][[code]()]
+
+
 
 
 
