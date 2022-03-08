@@ -16,6 +16,12 @@
   [[paper](https://arxiv.org/pdf/1704.04057.pdf)]
   [[code](https://github.com/foolwood/DCFNet#dcfnet-discriminant-correlation-filters-network-for-visual-tracking)]
  
+ ### CVPR2022
+* **UDAT:** Ye, Junjie and Fu, Changhong and Zheng, Guangze and Paudel, Danda Pani and Chen, Guang. <br />
+"Unsupervised Domain Adaptation for Nighttime Aerial Tracking".CVPR(2021).[[paper]()][[code](https://github.com/vision4robotics/UDAT)]
+
+
+
  
  ### ICCV2021
  * **DepthTrack:** Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen. <br />
