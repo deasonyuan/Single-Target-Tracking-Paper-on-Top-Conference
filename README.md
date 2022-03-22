@@ -1,6 +1,8 @@
 ## Visual Trackers
 
 ### :star2: Recommendations :star2:
+* **RTS:** Matthieu Paul, Martin Danelljan, Christoph Mayer, Luc Van Gool. <br />
+"Robust Visual Tracking by Segmentation".ArXiv(2022).[[paper](https://arxiv.org/abs/2203.11191)][[code](https://github.com/visionml/pytracking)]
 * **SiamRCR:** Jinlong Peng, Zhengkai Jiang, Yueyang Gu, Yang Wu, Yabiao Wang, Ying Tai, Chengjie Wang, Weiyao Lin. <br />
 "SiamRCR: Reciprocal Classification and Regression for Visual Object Tracking".IJCAI(2021).[[paper](https://arxiv.org/abs/2105.11237)]
 * **SVC-Corr:** Jinpu Zhang, Yuehuan Wang. <br />
