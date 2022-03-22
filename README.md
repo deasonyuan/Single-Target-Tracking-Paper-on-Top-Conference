@@ -30,6 +30,8 @@
 * Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, Zhen Li. <br />
 "Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds".CVPR(2022).[[paper](https://arxiv.org/abs/2203.01730)][[code]()]
 
+* Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool. <br />
+"Transforming Model Prediction for Tracking".CVPR(2022).[[paper](https://arxiv.org/abs/2203.11192)][[code](https://github.com/visionml/pytracking)]
 
 
 
