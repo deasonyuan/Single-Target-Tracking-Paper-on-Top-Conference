@@ -1,7 +1,7 @@
 ## Visual Trackers
 
 ### :star2: Recommendations :star2:
-"RGBD Object Tracking: An In-depth Review". ArXiv(2022).[[paper](https://arxiv.org/abs/2203.14134)][[code](https://github.com/memoryunreal/RGBD-tracking-review)]
+* "RGBD Object Tracking: An In-depth Review". ArXiv(2022).[[paper](https://arxiv.org/abs/2203.14134)][[code](https://github.com/memoryunreal/RGBD-tracking-review)]
 
 * **OSTrack:** Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan. <br />
 "Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework".ArXiv(2022).[[paper](https://arxiv.org/abs/2203.11991)][[code](https://github.com/botaoye/OSTrack)]
