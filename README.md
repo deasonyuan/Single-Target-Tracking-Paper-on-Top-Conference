@@ -1,6 +1,7 @@
 ## Visual Trackers
 
 ### :star2: Recommendations :star2:
+* Jinyu Yang, Zhe Li, Song Yan, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen, Ling Shao. <br />
 * "RGBD Object Tracking: An In-depth Review". ArXiv(2022).[[paper](https://arxiv.org/abs/2203.14134)][[code](https://github.com/memoryunreal/RGBD-tracking-review)]
 
 * **OSTrack:** Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan. <br />
