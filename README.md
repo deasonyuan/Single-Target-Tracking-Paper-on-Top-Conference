@@ -43,6 +43,8 @@
 "Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds".CVPR(2022).[[paper](https://arxiv.org/abs/2203.01730)][[code]()]
 * **UTT:** Fan Ma, Mike Zheng Shou, Linchao Zhu, Haoqi Fan, Yilei Xu, Yi Yang, Zhicheng Yan. <br />
 "Unified Transformer Tracker for Object Tracking".CVPR(2022).[[paper](https://arxiv.org/abs/2203.15175)][[code](https://github.com/Flowerfan/Trackron)]
+* **VTUAV:** Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan. <br />
+"Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline".CVPR(2022).[[paper](https://arxiv.org/abs/2204.04120)][[code](https://zhang-pengyu.github.io/DUT-VTUAV/#Highlights)]
 
 
 
