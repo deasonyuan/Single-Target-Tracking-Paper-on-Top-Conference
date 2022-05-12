@@ -1,6 +1,8 @@
 ## Visual Trackers
 
 ### :star2: Recommendations :star2:
+* **SparseTT:** Zhihong Fu, Zehua Fu, Qingjie Liu, Wenrui Cai, Yunhong Wang. <br />
+"SparseTT: Visual Tracking with Sparse Transformers".IJCAI(2022).[[paper](https://arxiv.org/pdf/2205.03776.pdf)][[code](https://github.com/fzh0917/SparseTT)]
 * Jinyu Yang, Zhe Li, Song Yan, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen, Ling Shao. <br />
 "RGBD Object Tracking: An In-depth Review". ArXiv(2022).[[paper](https://arxiv.org/abs/2203.14134)][[code](https://github.com/memoryunreal/RGBD-tracking-review)]
 * **OSTrack:** Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan. <br />
