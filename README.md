@@ -26,7 +26,7 @@
   [[paper](https://arxiv.org/pdf/1704.04057.pdf)]
   [[code](https://github.com/foolwood/DCFNet#dcfnet-discriminant-correlation-filters-network-for-visual-tracking)]
  
-  ### ECCV2022
+ ### ECCV2022
  * **Unicorn:** Bin Yan, Yi Jiang, Peize Sun, Dong Wang, Zehuan Yuan, Ping Luo, Huchuan Lu. <br />
 "Towards Grand Unification of Object Tracking".ECCV(2022).[[paper](https://arxiv.org/pdf/2207.07078.pdf)][[code](https://github.com/MasterBin-IIAU/Unicorn)]
  
