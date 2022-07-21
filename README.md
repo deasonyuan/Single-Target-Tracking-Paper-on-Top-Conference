@@ -29,6 +29,9 @@
  ### ECCV2022
  * **Unicorn:** Bin Yan, Yi Jiang, Peize Sun, Dong Wang, Zehuan Yuan, Ping Luo, Huchuan Lu. <br />
 "Towards Grand Unification of Object Tracking".ECCV(2022).[[paper](https://arxiv.org/pdf/2207.07078.pdf)][[code](https://github.com/MasterBin-IIAU/Unicorn)]
+ * **AiATrack:** Shenyuan Gao, Chunluan Zhou, Chao Ma, Xinggang Wang, Junsong Yuan. <br />
+"AiATrack: Attention in Attention for Transformer Visual Tracking".ECCV(2022).[[paper](https://arxiv.org/pdf/2207.09603.pdf)][[code](https://github.com/Little-Podi/AiATrack)]
+
  
  ### CVPR2022
  * **RBO:** Feng Tang, Qiang Ling. <br />
