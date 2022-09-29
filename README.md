@@ -39,6 +39,8 @@
 "Robust Visual Tracking by Segmentation".ECCV(2022).[[paper](https://arxiv.org/abs/2203.11191)][[code](https://github.com/visionml/pytracking)]
 * **FEARTracker:** Vasyl Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, Jiři Matas. <br />
 "FEAR: Fast, Efficient, Accurate and Robust Visual Tracker".ECCV(2022).[[paper](https://arxiv.org/pdf/2112.07957.pdf)][[code](https://github.com/PinataFarms/FEARTracker)]
+* **HVC-Net:** Haoxian Zhang, Yonggen Ling. <br />
+"HVC-Net: Unifying Homography, Visibility, and Confidence Learning for Planar Object Tracking".ECCV(2022).[[paper](https://arxiv.org/pdf/2209.08924.pdf)][[code]( )]
  
  ### CVPR2022
  * **RBO:** Feng Tang, Qiang Ling. <br />
