@@ -31,6 +31,8 @@
 "Towards Grand Unification of Object Tracking".ECCV(2022).[[paper](https://arxiv.org/pdf/2207.07078.pdf)][[code](https://github.com/MasterBin-IIAU/Unicorn)]
  * **AiATrack:** Shenyuan Gao, Chunluan Zhou, Chao Ma, Xinggang Wang, Junsong Yuan. <br />
 "AiATrack: Attention in Attention for Transformer Visual Tracking".ECCV(2022).[[paper](https://arxiv.org/pdf/2207.09603.pdf)][[code](https://github.com/Little-Podi/AiATrack)]
+ * **OSTrack:** Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan. <br />
+"Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework".ECCV(2022).[[paper](https://arxiv.org/pdf/2203.11991.pdf)][[code](https://github.com/botaoye/OSTrack)]
 
  
  ### CVPR2022
