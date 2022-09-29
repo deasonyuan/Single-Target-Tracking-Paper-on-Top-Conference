@@ -5,8 +5,6 @@
 "SparseTT: Visual Tracking with Sparse Transformers".IJCAI(2022).[[paper](https://arxiv.org/pdf/2205.03776.pdf)][[code](https://github.com/fzh0917/SparseTT)]
 * Jinyu Yang, Zhe Li, Song Yan, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen, Ling Shao. <br />
 "RGBD Object Tracking: An In-depth Review". ArXiv(2022).[[paper](https://arxiv.org/abs/2203.14134)][[code](https://github.com/memoryunreal/RGBD-tracking-review)]
-* **OSTrack:** Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan. <br />
-"Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework".ArXiv(2022).[[paper](https://arxiv.org/abs/2203.11991)][[code](https://github.com/botaoye/OSTrack)]
 * **HCAT:** Xin Chen, Dong Wang, Dongdong Li, Huchuan Lu. <br />
 "Efficient Visual Tracking via Hierarchical Cross-Attention Transformer".ArXiv(2022).[[paper](https://arxiv.org/abs/2203.13537)][[code](https://github.com/chenxin-dlut/HCAT)]
 * **SiamRCR:** Jinlong Peng, Zhengkai Jiang, Yueyang Gu, Yang Wu, Yabiao Wang, Ying Tai, Chengjie Wang, Weiyao Lin. <br />
