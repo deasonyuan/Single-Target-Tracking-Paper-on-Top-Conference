@@ -35,6 +35,9 @@
 "Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework".ECCV(2022).[[paper](https://arxiv.org/pdf/2203.11991.pdf)][[code](https://github.com/botaoye/OSTrack)]
  * **SimTrack:** Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang. <br />
 "Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking".ECCV(2022).[[paper](https://arxiv.org/pdf/2203.05328.pdf)][[code](https://github.com/LPXTT/SimTrack)]
+ * **SLTtrack:** Minji Kim, Seungkwan Lee, Jungseul Ok, Bohyung Han, Minsu Cho. <br />
+"Towards Sequence-Level Training for Visual Tracking".ECCV(2022).[[paper](https://arxiv.org/pdf/2208.05810.pdf)][[code](https://github.com/byminji/SLTtrack)]
+
 
  
  ### CVPR2022
