@@ -9,8 +9,6 @@
 "Efficient Visual Tracking via Hierarchical Cross-Attention Transformer".ArXiv(2022).[[paper](https://arxiv.org/abs/2203.13537)][[code](https://github.com/chenxin-dlut/HCAT)]
 * **SiamRCR:** Jinlong Peng, Zhengkai Jiang, Yueyang Gu, Yang Wu, Yabiao Wang, Ying Tai, Chengjie Wang, Weiyao Lin. <br />
 "SiamRCR: Reciprocal Classification and Regression for Visual Object Tracking".IJCAI(2021).[[paper](https://arxiv.org/abs/2105.11237)]
-* **SVC-Corr:** Jinpu Zhang, Yuehuan Wang. <br />
-"Spatio-Temporal Matching for Siamese Visual Tracking".ArXiv(2021).[[paper](https://arxiv.org/abs/2105.02408)]
 * **TrTr:** Moju Zhao, Kei Okada, Masayuki Inaba. <br />
 "TrTr: Visual Tracking with Transformer".ArXiv(2021).[[paper](https://arxiv.org/abs/2105.03817)][[code](https://github.com/tongtybj/TrTr)]
 * **TREG:** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu. <br />
