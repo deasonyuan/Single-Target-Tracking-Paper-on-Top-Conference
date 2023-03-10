@@ -23,6 +23,8 @@
   [[code](https://github.com/foolwood/DCFNet#dcfnet-discriminant-correlation-filters-network-for-visual-tracking)]
  
  ### ECCV2022
+  * **CIA:** Zhixiong Pi, Weitao Wan, Chong Sun, Changxin Gao, Nong Sang and Chen Li . <br />
+"Hierarchical Feature Embedding for Visual Tracking".ECCV(2022).[[paper](https://link.springer.com/chapter/10.1007/978-3-031-20047-2_25)][[code](https://github.com/zxgravity/CIA)]
  * **Unicorn:** Bin Yan, Yi Jiang, Peize Sun, Dong Wang, Zehuan Yuan, Ping Luo, Huchuan Lu. <br />
 "Towards Grand Unification of Object Tracking".ECCV(2022).[[paper](https://arxiv.org/pdf/2207.07078.pdf)][[code](https://github.com/MasterBin-IIAU/Unicorn)]
  * **AiATrack:** Shenyuan Gao, Chunluan Zhou, Chao Ma, Xinggang Wang, Junsong Yuan. <br />
