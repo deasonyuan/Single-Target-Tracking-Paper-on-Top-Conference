@@ -30,8 +30,28 @@
 "Unsupervised Contour Tracking of Live Cells by Mechanical and Cycle Consistency Losses".CVPR2023.[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jang_Unsupervised_Contour_Tracking_of_Live_Cells_by_Mechanical_and_Cycle_CVPR_2023_paper.pdf)][[code](https://github.com/JunbongJang/contour-tracking)]
  * **ARKitTrack:** Haojie Zhao, Junsong Chen, Lijun Wang, Huchuan Lu. <br />
 "ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data".CVPR2023.[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_ARKitTrack_A_New_Diverse_Dataset_for_Tracking_Using_Mobile_RGB-D_CVPR_2023_paper.pdf)][[code](https://github.com/lawrence-cj/ARKitTrack)]
- * **SUSHI:** Orcun Cetintas, Guillem Brasó, Laura Leal-Taixé. <br />
-"Unifying Short and Long-Term Tracking with Graph Hierarchies".CVPR2023.[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Cetintas_Unifying_Short_and_Long-Term_Tracking_With_Graph_Hierarchies_CVPR_2023_paper.pdf)][[code](https://github.com/dvl-tum/SUSHI)]
+ * **GRM:** Shenyuan Gao, Chunluan Zhou, Jun Zhang. <br />
+"Generalized Relation Modeling for Transformer Tracking".CVPR2023.[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Generalized_Relation_Modeling_for_Transformer_Tracking_CVPR_2023_paper.pdf)][[code](https://github.com/Little-Podi/GRM)]
+* **VisTracker:** Xianghui Xie, Bharat Lal Bhatnagar, Gerard Pons-Moll. <br />
+"Visibility Aware Human-Object Interaction Tracking From Single RGB Camera".CVPR2023.[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Visibility_Aware_Human-Object_Interaction_Tracking_From_Single_RGB_Camera_CVPR_2023_paper.pdf)][[code](https://virtualhumans.mpi-inf.mpg.de/VisTracker)]
+* **JointNLT:** Li Zhou, Zikun Zhou, Kaige Mao, Zhenyu He. <br />
+"Joint Visual Grounding and Tracking with Natural Language Specification".CVPR2023.[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Joint_Visual_Grounding_and_Tracking_With_Natural_Language_Specification_CVPR_2023_paper.pdf)][[code](https://github.com/lizhou-cs/JointNLT)]
+* **ViPT:** Jiawen Zhu, Simiao Lai, Xin Chen, Dong Wang, Huchuan Lu. <br />
+"Visual Prompt Multi-Modal Tracking".CVPR2023.[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Visual_Prompt_Multi-Modal_Tracking_CVPR_2023_paper.pdf)][[code](https://github.com/jiawen-zhu/ViPT)]
+* **ARTrack:** Xing Wei, Yifan Bai, Yongchao Zheng, Dahu Shi, Yihong Gong. <br />
+"Autoregressive Visual Tracking".CVPR2023.[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Autoregressive_Visual_Tracking_CVPR_2023_paper.pdf)][[code](https://github.com/MIV-XJTU/ARTrack)]
+* **EMT:** Jinyu Yang, Shang Gao, Zhe Li, Feng Zheng, Aleš Leonardis. <br />
+"Resource-Efficient RGBD Aerial Tracking".CVPR2023.[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Resource-Efficient_RGBD_Aerial_Tracking_CVPR_2023_paper.pdf)][[code](https://github.com/yjybuaa/RGBDAerialTracking)]
+* **MAT:** Haojie Zhao, Dong Wang, Huchuan Lu. <br />
+"Representation Learning for Visual Object Tracking by Masked Appearance Transfer".CVPR2023.[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Representation_Learning_for_Visual_Object_Tracking_by_Masked_Appearance_Transfer_CVPR_2023_paper.pdf)][[code](https://github.com/difhnp/MAT)]
+* **VideoX:** Xin Chen, Houwen Peng, Dong Wang, Huchuan Lu, Han Hu. <br />
+"SeqTrack: Sequence to Sequence Learning for Visual Object Tracking".CVPR2023.[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_SeqTrack_Sequence_to_Sequence_Learning_for_Visual_Object_Tracking_CVPR_2023_paper.pdf)][[code](https://github.com/microsoft/VideoX)]
+* **AFNet:** Jiqing Zhang, Yuanchen Wang, Wenxi Liu, Meng Li, Jinpeng Bai, Baocai Yin, Xin Yang. <br />
+"Frame-Event Alignment and Fusion Network for High Frame Rate Tracking".CVPR2023.[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Frame-Event_Alignment_and_Fusion_Network_for_High_Frame_Rate_Tracking_CVPR_2023_paper.pdf)]
+* **DropMAE:** Qiangqiang Wu, Tianyu Yang, Ziquan Liu, Baoyuan Wu, Ying Shan, Antoni B. Chan. <br />
+"DropMAE: Masked Autoencoders With Spatial-Attention Dropout for Tracking Tasks".CVPR2023.[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_DropMAE_Masked_Autoencoders_With_Spatial-Attention_Dropout_for_Tracking_Tasks_CVPR_2023_paper.pdf)][[code](https://github.com/jimmy-dq/DropMAE)]
+* **TBSI:** Tianrui Hui, Zizheng Xun, Fengguang Peng, Junshi Huang, Xiaoming Wei, Xiaolin Wei, Jiao Dai, Jizhong Han, Si Liu. <br />
+"Bridging Search Region Interaction with Template for RGB-T Tracking".CVPR2023.[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hui_Bridging_Search_Region_Interaction_With_Template_for_RGB-T_Tracking_CVPR_2023_paper.pdf)][[code](https://github.com/RyanHTR/TBSI)]
  
  ### ECCV2022
   * **CIA:** Zhixiong Pi, Weitao Wan, Chong Sun, Changxin Gao, Nong Sang and Chen Li . <br />
