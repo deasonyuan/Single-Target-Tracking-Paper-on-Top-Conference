@@ -20,6 +20,22 @@
   "DCFNet: Discriminant Correlation Filters Network for Visual Tracking." arXiv (2017). 
   [[paper](https://arxiv.org/pdf/1704.04057.pdf)]
   [[code](https://github.com/foolwood/DCFNet#dcfnet-discriminant-correlation-filters-network-for-visual-tracking)]
+
+### ICCV2023
+ * **PlanarTrack:** Xinran Liu, Xiaoqiong Liu, Ziruo Yi, Xin Zhou, Thanh Le, Libo Zhang, Yan Huang, Qing Yang, Heng Fan. <br />
+"PlanarTrack: A Large-scale Challenging Benchmark for Planar Object Tracking".ICCV2023.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_PlanarTrack_A_Large-scale_Challenging_Benchmark_for_Planar_Object_Tracking_ICCV_2023_paper.pdf)][[code](https://hengfan2010.github.io/projects/PlanarTrack/)]
+ * **360VOT:** Huajian Huang, Yinzhe Xu, Yingshu Chen, Sai-Kit Yeung. <br />
+"360VOT: A New Benchmark Dataset for Omnidirectional Visual Object Tracking".ICCV2023.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_360VOT_A_New_Benchmark_Dataset_for_Omnidirectional_Visual_Object_Tracking_ICCV_2023_paper.pdf)][[code](https://360vot.hkustvgd.com/)]
+ * **CiteTracker:** Xin Li, Yuqing Huang, Zhenyu He, Yaowei Wang, Huchuan Lu, Ming-Hsuan Yang. <br />
+"CiteTracker: Correlating Image and Text for Visual Tracking".ICCV2023.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_CiteTracker_Correlating_Image_and_Text_for_Visual_Tracking_ICCV_2023_paper.pdf)][[code](https://github.com/NorahGreen/CiteTracker)]
+ * **DecoupleTNL:** Ding Ma, Xiangqian Wu. <br />
+"Tracking by Natural Language Specification with Long Short-term Context Decoupling".ICCV2023.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Tracking_by_Natural_Language_Specification_with_Long_Short-term_Context_Decoupling_ICCV_2023_paper.pdf)]
+ * **HiT:** Ben Kang, Xin Chen, Dong Wang, Houwen Peng, Huchuan Lu. <br />
+"Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking".ICCV2023.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Kang_Exploring_Lightweight_Hierarchical_Vision_Transformers_for_Efficient_Visual_Tracking_ICCV_2023_paper.pdf)][[code](https://github.com/kangben258/HiT)]
+
+
+
+
  
  ### CVPR2023
   * **CMD:** Tianlu Zhang, Hongyuan Guo, Qiang Jiao, Qiang Zhang, Jungong Han. <br />
