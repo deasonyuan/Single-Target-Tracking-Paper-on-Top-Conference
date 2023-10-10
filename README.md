@@ -32,7 +32,12 @@
 "Tracking by Natural Language Specification with Long Short-term Context Decoupling".ICCV2023.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Tracking_by_Natural_Language_Specification_with_Long_Short-term_Context_Decoupling_ICCV_2023_paper.pdf)]
  * **HiT:** Ben Kang, Xin Chen, Dong Wang, Houwen Peng, Huchuan Lu. <br />
 "Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking".ICCV2023.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Kang_Exploring_Lightweight_Hierarchical_Vision_Transformers_for_Efficient_Visual_Tracking_ICCV_2023_paper.pdf)][[code](https://github.com/kangben258/HiT)]
-
+* **Aba-ViTrack:** Shuiwang Li, Yangxiang Yang, Dan Zeng, Xucheng Wang. <br />
+"Adaptive and Background-Aware Vision Transformer for Real-Time UAV Tracking".ICCV2023.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Adaptive_and_Background-Aware_Vision_Transformer_for_Real-Time_UAV_Tracking_ICCV_2023_paper.pdf)][[code](https://github.com/xyyang317/Aba-ViTrack)]
+* **ROMTrack:** Yidong Cai, Jie Liu, Jie Tang, Gangshan Wu. <br />
+"Robust Object Modeling for Visual Tracking".ICCV2023.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Cai_Robust_Object_Modeling_for_Visual_Tracking_ICCV_2023_paper.pdf)]
+* **F-BDMTrack:** Dawei Yang, Jianfeng He, Yinchao Ma, Qianjin Yu, Tianzhu Zhang. <br />
+"Foreground-Background Distribution Modeling Transformer for Visual Object Tracking".ICCV2023.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Foreground-Background_Distribution_Modeling_Transformer_for_Visual_Object_Tracking_ICCV_2023_paper.pdf)]
 
 
 
