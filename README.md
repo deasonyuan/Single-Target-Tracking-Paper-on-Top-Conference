@@ -40,6 +40,8 @@
 "Foreground-Background Distribution Modeling Transformer for Visual Object Tracking".ICCV2023.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Foreground-Background_Distribution_Modeling_Transformer_for_Visual_Object_Tracking_ICCV_2023_paper.pdf)]
 * **PVT++:** Bowen Li, Ziyuan Huang, Junjie Ye, Yiming Li, Sebastian Scherer, Hang Zhao, Changhong Fug. <br />
 "PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework".ICCV2023.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_PVT_A_Simple_End-to-End_Latency-Aware_Visual_Tracking_Framework_ICCV_2023_paper.pdf)][[code](https://github.com/Jaraxxus-Me/PVT_pp.git)]
+* **OmniMotion:** Qianqian Wang, Yen-Yu Chang, Ruojin Cai, Zhengqi Li, Bharath Hariharan, Aleksander Holynski, Noah Snavely. <br />
+"Tracking Everything Everywhere All at Once".ICCV2023.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Tracking_Everything_Everywhere_All_at_Once_ICCV_2023_paper.pdf)][[code](omnimotion.github.io)]
 
 
  
