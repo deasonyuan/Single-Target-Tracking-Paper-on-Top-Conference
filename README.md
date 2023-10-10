@@ -38,7 +38,8 @@
 "Robust Object Modeling for Visual Tracking".ICCV2023.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Cai_Robust_Object_Modeling_for_Visual_Tracking_ICCV_2023_paper.pdf)]
 * **F-BDMTrack:** Dawei Yang, Jianfeng He, Yinchao Ma, Qianjin Yu, Tianzhu Zhang. <br />
 "Foreground-Background Distribution Modeling Transformer for Visual Object Tracking".ICCV2023.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Foreground-Background_Distribution_Modeling_Transformer_for_Visual_Object_Tracking_ICCV_2023_paper.pdf)]
-
+* **PVT++:** Bowen Li, Ziyuan Huang, Junjie Ye, Yiming Li, Sebastian Scherer, Hang Zhao, Changhong Fug. <br />
+"PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework".ICCV2023.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_PVT_A_Simple_End-to-End_Latency-Aware_Visual_Tracking_Framework_ICCV_2023_paper.pdf)][[code](https://github.com/Jaraxxus-Me/PVT_pp.git)]
 
 
  
