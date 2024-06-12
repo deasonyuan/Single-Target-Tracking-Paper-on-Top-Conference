@@ -21,6 +21,126 @@
   [[paper](https://arxiv.org/pdf/1704.04057.pdf)]
   [[code](https://github.com/foolwood/DCFNet#dcfnet-discriminant-correlation-filters-network-for-visual-tracking)]
 
+
+### CVPR 2024
+
+- **OneTracker:** Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Cheng, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang.<br />
+  "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2403.09634)] 
+  [[code](https://)]
+
+- **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei.<br />
+  "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2312.17133)] 
+  [[code](https://artrackv2.github.io/)]
+
+- **DiffusionTrack:** Fei Xie, Zhongdao Wang, Chao Ma.<br />
+  "DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking." CVPR (2024).
+  [[paper](https://arxiv.org/)] 
+  [[code](https://)]
+
+- **AQAT:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji.<br />
+  "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers." CVPR (2024).
+  [[paper](https://arxiv.org/)] 
+  [[code](https://)]
+
+- **RTracker:** Yuqing Huang, Xin Li, Zikun Zhou, Yaowei Wang, Zhenyu He, Ming-Hsuan Yang.<br />
+  "RTracker: Recoverable Tracking via PN Tree Structured Memory." CVPR (2024).
+  [[paper](https://arxiv.org/)] 
+  [[code](https://)]
+
+- **NetTrack:** Guangze Zheng, Shijie Lin, Haobo Zuo, Changhong Fu, Jia Pan.<br />
+  "NetTrack: Tracking Highly Dynamic Objects with a Net." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2403.11186)] 
+  [[code](https://george-zhuang.github.io/nettrack/)]
+
+- **Un-Track:** Zongwei Wu, Jilai Zheng, Xiangxuan Ren, Florin-Alexandru Vasluianu, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte.<br />
+  "Single-Model and Any-Modality for Video Object Tracking." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2311.15851)] 
+  [[code](https://github.com/Zongwei97/UnTrack)]
+
+- **HIPTrack:** Wenrui Cai, Qingjie Liu, Yunhong Wang.<br />
+  "HIPTrack: Visual Tracking with Historical Prompts." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2311.02072)] 
+  [[code](https://xxx)]
+
+- **AQAT:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji.<br />
+  "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers." CVPR (2024).
+  [[paper](https://arxiv.org/)] 
+  [[code](https://)]
+
+- **SDSTrack:** Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu, Yong Liu.<br />
+  "SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking." CVPR (2024).
+  [[paper](https://arxiv.org/)] 
+  [[code](https://)]
+
+- **HDETrack:** Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang.<br />
+  "Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2309.14611)] 
+  [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
+
+- **CAI:** Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, Jiming Chen.<br />
+  "Context-Aware Integration of Language and Visual References for Natural Language Tracking." CVPR (2024).
+  [[paper](https://arxiv.org/)] 
+  [[code](https://)]
+
+
+### WACV 2024
+
+- **ContrasTR:** Pierre-François De Plaen, Nicola Marinello, Marc Proesmans, Tinne Tuytelaars, Luc Van Gool.<br />
+  "Contrastive Learning for Multi-Object Tracking With Transformers." WACV (2024).
+  [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/De_Plaen_Contrastive_Learning_for_Multi-Object_Tracking_With_Transformers_WACV_2024_paper.pdf)] 
+  [[code]()]
+
+- **LaGOT:** Christoph Mayer, Martin Danelljan, Ming-Hsuan Yang, Vittorio Ferrari, Luc Van Gool, Alina Kuznetsova.<br />
+  "Beyond SOT: It's Time to Track Multiple Generic Objects at Once." WACV (2024).
+  [[paper](https://arxiv.org/abs/2212.11920)] 
+  [[code](https://github.com/visionml/pytracking)]
+
+- **SMAT:** Goutam Yelluru Gopal, Maria A. Amer.<br />
+  "Separable Self and Mixed Attention Transformers for Efficient Object Tracking." WACV (2024).
+  [[paper](https://arxiv.org/abs/2309.03979)] 
+  [[code](https://github.com/goutamyg/SMAT)]
+  
+- **DATr:** Jie Zhao, Johan Edstedt, Michael Felsberg, Dong Wang, Huchuan Lu.<br />
+  "Leveraging the Power of Data Augmentation for Transformer-based Tracking." WACV (2024).
+  [[paper](https://arxiv.org/abs/2309.08264)] 
+  [[code](https://github.com/zj5559/DATr)]
+  
+### AAAI 2024
+
+- **GMMT:** Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu, Josef Kittler.<br />
+  "Generative-based Fusion Mechanism for Multi-Modal Tracking." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2309.01728)] 
+  [[code](https://github.com/Zhangyong-Tang/GMMT)]
+
+- **ODTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Zhiyi Mo, Shengping Zhang, Xianxian Li.<br />
+  "ODTrack: Online Dense Temporal Token Learning for Visual Tracking." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2401.01686)] 
+  [[code](https://github.com/GXNU-ZhongLab/ODTrack)]
+
+ - **EVPTrack:** Liangtao Shi, Bineng Zhong, Qihua Liang, Ning Li, Shengping Zhang, Xianxian Li.<br />
+  "Explicit Visual Prompts for Visual Object Tracking." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2401.03142)] 
+  [[code](https://github.com/GXNU-ZhongLab/EVPTrack)] 
+  
+- **BAT:** Bing Cao, Junliang Guo, Pengfei Zhu, Qinghua Hu.<br />
+  "Bi-directional Adapter for Multimodal Tracking." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2312.10611)] 
+  [[code](https://github.com/SparkTempest/BAT)]
+
+- **TATrack:** Hongyu Wang, Xiaotao Liu, Yifan Li, Meng Sun, Dian Yuan, Jing Liu.<br />
+  "Temporal Adaptive RGBT Tracking with Modality Prompt." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2401.01244)] 
+  [[code]()]
+
+- **Hybrid-SORT:** Mingzhan Yang, Guangxin Han, Bin Yan, Wenhua Zhang, Jinqing Qi, Huchuan Lu, Dong Wang.<br />
+  "Hybrid-SORT: Weak Cues Matter for Online Multi-Object Tracking." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2308.00783)] 
+  [[code](https://github.com/ymzis69/HybirdSORT)]
+
+  
+
 ### ICCV2023
  * **PlanarTrack:** Xinran Liu, Xiaoqiong Liu, Ziruo Yi, Xin Zhou, Thanh Le, Libo Zhang, Yan Huang, Qing Yang, Heng Fan. <br />
 "PlanarTrack: A Large-scale Challenging Benchmark for Planar Object Tracking".ICCV2023.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_PlanarTrack_A_Large-scale_Challenging_Benchmark_for_Planar_Object_Tracking_ICCV_2023_paper.pdf)][[code](https://hengfan2010.github.io/projects/PlanarTrack/)]
