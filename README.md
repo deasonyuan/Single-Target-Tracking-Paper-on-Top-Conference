@@ -1,13 +1,13 @@
 ## Visual Trackers
 
 ### :star2: Recommendations :star2:
-* "Transformers in Single Object Tracking: An Experimental Survey".ArXiv(2023).[[paper](https://arxiv.org/pdf/2302.11867.pdf)]
+* "Transformers in Single Object Tracking: An Experimental Survey".IEEE Access(2023).[[paper](https://ieeexplore.ieee.org/abstract/document/10192429)]
 * **SparseTT:** Zhihong Fu, Zehua Fu, Qingjie Liu, Wenrui Cai, Yunhong Wang. <br />
 "SparseTT: Visual Tracking with Sparse Transformers".IJCAI(2022).[[paper](https://arxiv.org/pdf/2205.03776.pdf)][[code](https://github.com/fzh0917/SparseTT)]
 * Jinyu Yang, Zhe Li, Song Yan, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen, Ling Shao. <br />
 "RGBD Object Tracking: An In-depth Review". ArXiv(2022).[[paper](https://arxiv.org/abs/2203.14134)][[code](https://github.com/memoryunreal/RGBD-tracking-review)]
 * **HCAT:** Xin Chen, Dong Wang, Dongdong Li, Huchuan Lu. <br />
-"Efficient Visual Tracking via Hierarchical Cross-Attention Transformer".ArXiv(2022).[[paper](https://arxiv.org/abs/2203.13537)][[code](https://github.com/chenxin-dlut/HCAT)]
+"Efficient Visual Tracking via Hierarchical Cross-Attention Transformer".ECCVW(2022).[[paper]https://link.springer.com/chapter/10.1007/978-3-031-25085-9_26)][[code](https://github.com/chenxin-dlut/HCAT)]
 * **SiamRCR:** Jinlong Peng, Zhengkai Jiang, Yueyang Gu, Yang Wu, Yabiao Wang, Ying Tai, Chengjie Wang, Weiyao Lin. <br />
 "SiamRCR: Reciprocal Classification and Regression for Visual Object Tracking".IJCAI(2021).[[paper](https://arxiv.org/abs/2105.11237)]
 * **TrTr:** Moju Zhao, Kei Okada, Masayuki Inaba. <br />
@@ -15,7 +15,7 @@
 * **TREG:** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu. <br />
 "Target Transformed Regression for Accurate Tracking".ArXiv(2021).[[paper](https://arxiv.org/abs/2104.00403)][[code](https://github.com/MCG-NJU/TREG)]
 * **AFSN:** Shengyun Peng, Yunxuan Yu, Kun Wang, Lei He. <br />
-"Accurate Anchor Free Tracking". ArXiv(2020). [[paper]](https://arxiv.org/abs/2006.07560)
+"Accurate Anchor Free Tracking". ArXiv(2020). [[paper](https://arxiv.org/abs/2006.07560)]
 * **DCFNet:** Qiang Wang, Jin Gao, Junliang Xing, Mengdan Zhang, Weiming Hu. <br />
   "DCFNet: Discriminant Correlation Filters Network for Visual Tracking." arXiv (2017). 
   [[paper](https://arxiv.org/pdf/1704.04057.pdf)]
