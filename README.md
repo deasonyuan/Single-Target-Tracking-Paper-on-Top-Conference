@@ -26,63 +26,57 @@
 
 - **OneTracker:** Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Cheng, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang.<br />
   "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning." CVPR (2024).
-  [[paper](https://arxiv.org/abs/2403.09634)] 
-  [[code](https://)]
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_OneTracker_Unifying_Visual_Object_Tracking_with_Foundation_Models_and_Efficient_CVPR_2024_paper.pdf)] 
 
 - **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei.<br />
   "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe." CVPR (2024).
-  [[paper](https://arxiv.org/abs/2312.17133)] 
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Bai_ARTrackV2_Prompting_Autoregressive_Tracker_Where_to_Look_and_How_to_CVPR_2024_paper.pdf)] 
   [[code](https://artrackv2.github.io/)]
 
 - **DiffusionTrack:** Fei Xie, Zhongdao Wang, Chao Ma.<br />
   "DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking." CVPR (2024).
-  [[paper](https://arxiv.org/)] 
-  [[code](https://)]
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_DiffusionTrack_Point_Set_Diffusion_Model_for_Visual_Object_Tracking_CVPR_2024_paper.pdf)] 
+  [[code](https://github.com/VISION-SJTU/DiffusionTrack)]
 
 - **AQAT:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji.<br />
   "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers." CVPR (2024).
-  [[paper](https://arxiv.org/)] 
-  [[code](https://)]
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_Autoregressive_Queries_for_Adaptive_Tracking_with_Spatio-Temporal_Transformers_CVPR_2024_paper.pdf)] 
+  [[code](https://github.com/GXNU-ZhongLab/AQATrack)]
 
 - **RTracker:** Yuqing Huang, Xin Li, Zikun Zhou, Yaowei Wang, Zhenyu He, Ming-Hsuan Yang.<br />
   "RTracker: Recoverable Tracking via PN Tree Structured Memory." CVPR (2024).
-  [[paper](https://arxiv.org/)] 
-  [[code](https://)]
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_RTracker_Recoverable_Tracking_via_PN_Tree_Structured_Memory_CVPR_2024_paper.pdf)] 
+  [[code](https://github.com/NorahGreen/RTracker)]
 
 - **NetTrack:** Guangze Zheng, Shijie Lin, Haobo Zuo, Changhong Fu, Jia Pan.<br />
   "NetTrack: Tracking Highly Dynamic Objects with a Net." CVPR (2024).
-  [[paper](https://arxiv.org/abs/2403.11186)] 
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_NetTrack_Tracking_Highly_Dynamic_Objects_with_a_Net_CVPR_2024_paper.pdf)] 
   [[code](https://george-zhuang.github.io/nettrack/)]
 
 - **Un-Track:** Zongwei Wu, Jilai Zheng, Xiangxuan Ren, Florin-Alexandru Vasluianu, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte.<br />
   "Single-Model and Any-Modality for Video Object Tracking." CVPR (2024).
-  [[paper](https://arxiv.org/abs/2311.15851)] 
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Single-Model_and_Any-Modality_for_Video_Object_Tracking_CVPR_2024_paper.pdf)] 
   [[code](https://github.com/Zongwei97/UnTrack)]
 
 - **HIPTrack:** Wenrui Cai, Qingjie Liu, Yunhong Wang.<br />
   "HIPTrack: Visual Tracking with Historical Prompts." CVPR (2024).
-  [[paper](https://arxiv.org/abs/2311.02072)] 
-  [[code](https://xxx)]
-
-- **AQAT:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji.<br />
-  "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers." CVPR (2024).
-  [[paper](https://arxiv.org/)] 
-  [[code](https://)]
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Cai_HIPTrack_Visual_Tracking_with_Historical_Prompts_CVPR_2024_paper.pdf)] 
+  [[code](https://github.com/WenRuiCai/HIPTrack)]
 
 - **SDSTrack:** Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu, Yong Liu.<br />
   "SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking." CVPR (2024).
-  [[paper](https://arxiv.org/)] 
-  [[code](https://)]
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hou_SDSTrack_Self-Distillation_Symmetric_Adapter_Learning_for_Multi-Modal_Visual_Object_Tracking_CVPR_2024_paper.pdf)] 
+  [[code](https://github.com/hoqolo/SDSTrack)]
 
 - **HDETrack:** Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang.<br />
   "Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline." CVPR (2024).
-  [[paper](https://arxiv.org/abs/2309.14611)] 
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Event_Stream-based_Visual_Object_Tracking_A_High-Resolution_Benchmark_Dataset_and_CVPR_2024_paper.pdf)] 
   [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
 
 - **CAI:** Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, Jiming Chen.<br />
   "Context-Aware Integration of Language and Visual References for Natural Language Tracking." CVPR (2024).
-  [[paper](https://arxiv.org/)] 
-  [[code](https://)]
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Shao_Context-Aware_Integration_of_Language_and_Visual_References_for_Natural_Language_CVPR_2024_paper.pdf)] 
+  [[code](https://github.com/twotwo2/QueryNLT)]
 
 
 ### WACV 2024
@@ -132,14 +126,7 @@
 - **TATrack:** Hongyu Wang, Xiaotao Liu, Yifan Li, Meng Sun, Dian Yuan, Jing Liu.<br />
   "Temporal Adaptive RGBT Tracking with Modality Prompt." AAAI (2024).
   [[paper](https://arxiv.org/abs/2401.01244)] 
-  [[code]()]
-
-- **Hybrid-SORT:** Mingzhan Yang, Guangxin Han, Bin Yan, Wenhua Zhang, Jinqing Qi, Huchuan Lu, Dong Wang.<br />
-  "Hybrid-SORT: Weak Cues Matter for Online Multi-Object Tracking." AAAI (2024).
-  [[paper](https://arxiv.org/abs/2308.00783)] 
-  [[code](https://github.com/ymzis69/HybirdSORT)]
-
-  
+  [[code]()]  
 
 ### ICCV2023
  * **PlanarTrack:** Xinran Liu, Xiaoqiong Liu, Ziruo Yi, Xin Zhou, Thanh Le, Libo Zhang, Yan Huang, Qing Yang, Heng Fan. <br />
