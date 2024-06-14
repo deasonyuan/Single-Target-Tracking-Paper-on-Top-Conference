@@ -7,7 +7,7 @@
 * Jinyu Yang, Zhe Li, Song Yan, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen, Ling Shao. <br />
 "RGBD Object Tracking: An In-depth Review". ArXiv(2022).[[paper](https://arxiv.org/abs/2203.14134)][[code](https://github.com/memoryunreal/RGBD-tracking-review)]
 * **HCAT:** Xin Chen, Dong Wang, Dongdong Li, Huchuan Lu. <br />
-"Efficient Visual Tracking via Hierarchical Cross-Attention Transformer".ECCVW(2022).[[paper]https://link.springer.com/chapter/10.1007/978-3-031-25085-9_26)][[code](https://github.com/chenxin-dlut/HCAT)]
+"Efficient Visual Tracking via Hierarchical Cross-Attention Transformer".ECCVW(2022).[[paper](https://link.springer.com/chapter/10.1007/978-3-031-25085-9_26)][[code](https://github.com/chenxin-dlut/HCAT)]
 * **SiamRCR:** Jinlong Peng, Zhengkai Jiang, Yueyang Gu, Yang Wu, Yabiao Wang, Ying Tai, Chengjie Wang, Weiyao Lin. <br />
 "SiamRCR: Reciprocal Classification and Regression for Visual Object Tracking".IJCAI(2021).[[paper](https://arxiv.org/abs/2105.11237)]
 * **TrTr:** Moju Zhao, Kei Okada, Masayuki Inaba. <br />
